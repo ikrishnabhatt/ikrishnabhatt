@@ -9,7 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/krishnabhatt01/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://x.com/itscaybee/" title="Twitter"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://x.com/itscaybee/" title="Twitter"><img width="22" src="images/twitter.svg"> Twitter</a></code>
   <code><a href="https://www.instagram.com/itscaybee/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
@@ -91,16 +91,16 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ikrishnabhatt/zorzo" title="Zorzo"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/ikrishnabhatt/zorzo" title="Zorzo"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ikrishnabhatt&repo=zorzo&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ikrishnabhatt/zorzo" title="Zorzo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ikrishnabhatt&repo=zorzo&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ikrishnabhatt/odoo" title="Furniture Management Frontend"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/ikrishnabhatt/Gaming-Tournament-Management-System" title="Gaming Tournament Management"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/ikrishnabhatt/odoo" title="Furniture Management Frontend"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ikrishnabhatt&repo=odoo&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ikrishnabhatt/Gaming-Tournament-Management-System" title="Gaming Tournament Management"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ikrishnabhatt&repo=Gaming-Tournament-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/special-char/code-crafter-pet" title="Fluffy Favourites"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/special-char/code-crafter-pet" title="Fluffy Favourites"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=special-char&repo=code-crafters-pet&theme=react&border_color=61dafb&border_radius=10"></a>
   <!-- <a align="right" href="https://github.com/ikrishnabhatt/" title=""><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a> -->
 </div>
 <br/><br/><br/><br/><br/><br/>
